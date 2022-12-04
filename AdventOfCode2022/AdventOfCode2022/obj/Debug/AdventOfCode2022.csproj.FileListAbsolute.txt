@@ -1,0 +1,6 @@
+/Users/jgraybill/Projects/AdventOfCode2022/AdventOfCode2022/bin/Debug/AdventOfCode2022.exe
+/Users/jgraybill/Projects/AdventOfCode2022/AdventOfCode2022/bin/Debug/AdventOfCode2022.pdb
+/Users/jgraybill/Projects/AdventOfCode2022/AdventOfCode2022/obj/Debug/AdventOfCode2022.ResourceStrings.resources
+/Users/jgraybill/Projects/AdventOfCode2022/AdventOfCode2022/obj/Debug/AdventOfCode2022.csproj.GenerateResource.cache
+/Users/jgraybill/Projects/AdventOfCode2022/AdventOfCode2022/obj/Debug/AdventOfCode2022.exe
+/Users/jgraybill/Projects/AdventOfCode2022/AdventOfCode2022/obj/Debug/AdventOfCode2022.pdb
